@@ -1,5 +1,3 @@
 #! /bin/bash
 
-apt-get -y install git
-
-git clone #gitUrl
+git clone https://github.com/MatteOttria/Server-Client-O.V..git
