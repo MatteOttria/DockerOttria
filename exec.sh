@@ -1,3 +1,4 @@
-#! /bin/bash
+#! bin/bash
 
-git clone https://github.com/MatteOttria/Server-Client-O.V..git
+apt-get -y install git
+java -jar /server-1.0-SNAPSHOT-jar-with-dependencies.jar
